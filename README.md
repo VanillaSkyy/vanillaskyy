@@ -15,20 +15,6 @@ but I’m also exploring C-based languages for low-level programming.
 
 ---
 
-## 📊 Skill Levels
-
-| Language    | Proficiency |
-|-------------|-------------|
-| **Python**      | ![](assets/progress/python-advanced.svg) |
-| **HTML**        | ![](assets/progress/html-advanced.svg) |
-| **CSS**         | ![](assets/progress/css-advanced.svg) |
-| **JavaScript**  | ![](assets/progress/javascript-advanced.svg) |
-| **C#**          | ![](assets/progress/csharp-basic.svg) |
-| **C++**         | ![](assets/progress/cpp-basic.svg) |
-| **C**           | ![](assets/progress/c-basic.svg) |
-
----
-
 ## 📬 Contact Me
 <p>
   <a href="mailto:vanillaskyy@jigglepedia.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
