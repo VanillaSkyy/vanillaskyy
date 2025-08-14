@@ -4,7 +4,9 @@
 
 # 🌸 Hi there, I'm VanillaSkyy
 
-I enjoy making websites and useful open source apps. I mainly work with **Python** and **JavaScript**, but I also have **C#**, **C++** and **C** knowledge.
+I’m a passionate developer who loves building creative and interactive projects.  
+Most of my work revolves around **Python**, **JavaScript**,  
+but I’m also exploring C-based languages for low-level programming.
 
 ---
 
@@ -17,13 +19,13 @@ I enjoy making websites and useful open source apps. I mainly work with **Python
 
 | Language    | Proficiency |
 |-------------|-------------|
-| **Python**      | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
-| **HTML**        | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
-| **CSS**         | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
-| **JavaScript**  | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
-| **C#**          | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
-| **C++**         | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
-| **C**           | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
+| **Python**      | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
+| **HTML**        | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
+| **CSS**         | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
+| **JavaScript**  | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
+| **C#**          | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
+| **C++**         | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
+| **C**           | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
 
 ---
 
