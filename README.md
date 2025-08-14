@@ -19,13 +19,13 @@ but I’m also exploring C-based languages for low-level programming.
 
 | Language    | Proficiency |
 |-------------|-------------|
-| **Python**      | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
-| **HTML**        | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
-| **CSS**         | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
-| **JavaScript**  | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="190" height="20" fill="#CBA6F7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Advanced</text></svg> |
-| **C#**          | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
-| **C++**         | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
-| **C**           | <svg width="200" height="20"><rect width="200" height="20" fill="#E5E5E5" rx="5"/><rect width="70" height="20" fill="#F5C2E7" rx="5"/><text x="100" y="14" font-size="10" fill="#000" text-anchor="middle">Basic</text></svg> |
+| **Python**      | ![](assets/progress/python-advanced.svg) |
+| **HTML**        | ![](assets/progress/html-advanced.svg) |
+| **CSS**         | ![](assets/progress/css-advanced.svg) |
+| **JavaScript**  | ![](assets/progress/javascript-advanced.svg) |
+| **C#**          | ![](assets/progress/csharp-basic.svg) |
+| **C++**         | ![](assets/progress/cpp-basic.svg) |
+| **C**           | ![](assets/progress/c-basic.svg) |
 
 ---
 
