@@ -4,9 +4,7 @@
 
 # 🌸 Hi there, I'm VanillaSkyy
 
-I’m a passionate developer who loves building creative and interactive projects.  
-Most of my work revolves around **Python**, **JavaScript**, and game development with **Phaser.js**,  
-but I’m also exploring C-based languages for low-level programming.
+I enjoy making websites and useful open source apps. I mainly work with **Python** and **JavaScript**, but I also have **C#**, **C++** and **C** knowledge.
 
 ---
 
@@ -17,15 +15,15 @@ but I’m also exploring C-based languages for low-level programming.
 
 ## 📊 Skill Levels
 
-| Language    | Level |
-|-------------|-------|
-| **Python**      | ![](https://img.shields.io/badge/Advanced-███████████████-blue) |
-| **HTML**        | ![](https://img.shields.io/badge/Advanced-███████████████-blue) |
-| **CSS**         | ![](https://img.shields.io/badge/Advanced-███████████████-blue) |
-| **JavaScript**  | ![](https://img.shields.io/badge/Advanced-███████████████-blue) |
-| **C#**          | ![](https://img.shields.io/badge/Basic-█████░░░░░░░░-yellow) |
-| **C++**         | ![](https://img.shields.io/badge/Basic-█████░░░░░░░░-yellow) |
-| **C**           | ![](https://img.shields.io/badge/Basic-█████░░░░░░░░-yellow) |
+| Language    | Proficiency |
+|-------------|-------------|
+| **Python**      | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
+| **HTML**        | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
+| **CSS**         | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
+| **JavaScript**  | <img src="https://progress-bar.dev/95/?title=Advanced&width=200&color=00bfff" /> |
+| **C#**          | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
+| **C++**         | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
+| **C**           | <img src="https://progress-bar.dev/35/?title=Basic&width=200&color=FFD700" /> |
 
 ---
 
