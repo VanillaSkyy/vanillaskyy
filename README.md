@@ -4,8 +4,8 @@
 
 # 🌸 Hi there, I'm VanillaSkyy
 
-I’m a passionate developer who loves building creative and interactive projects.  
-Most of my work revolves around **Python**, **JavaScript**,  
+I like making tools for gacha games and I run a Spine/Live2D model preservation website.
+Most of my work revolves around **Python**, **JavaScript**,
 but I’m also exploring C-based languages for low-level programming.
 
 ---
