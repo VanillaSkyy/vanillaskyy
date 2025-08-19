@@ -8,6 +8,8 @@ I like making tools for gacha games and I run a Spine/Live2D model preservation 
 Most of my work revolves around **Python** and **JavaScript**,
 but I’m also exploring C-based languages for low-level programming.
 
+I'm seeking job oportunities, don't hesitate to contact me!
+
 ---
 
 ## 💻 Languages & Tools
