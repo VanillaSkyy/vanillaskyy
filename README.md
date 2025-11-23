@@ -4,7 +4,7 @@
 
 # 🌸 Hi there, I'm VanillaSkyy
 
-I like making tools for gacha games and I run a Spine/Live2D model preservation website.
+I'm a Web Programmer and I like making tools for gacha games.
 Most of my work revolves around **Python** and **JavaScript**,
 but I’m also exploring C-based languages for low-level programming.
 
